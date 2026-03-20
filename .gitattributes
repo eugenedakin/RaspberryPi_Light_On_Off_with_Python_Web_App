@@ -1,0 +1,26 @@
+# Normalize line endings to LF for text files
+* text=auto eol=lf
+
+# Explicitly set text files
+*.py text
+*.js text
+*.html text
+*.css text
+*.json text
+*.md text
+.gitignore text
+.gitattributes text
+
+# Treat common binary files as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.db binary
+
+# Git Linguist settings (optional, for GitHub stats)
+*.py linguist-language=Python
+*.js linguist-language=JavaScript
