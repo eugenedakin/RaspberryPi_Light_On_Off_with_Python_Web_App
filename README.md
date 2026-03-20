@@ -13,4 +13,4 @@ Installation instructions:
 5. Start python3 web app: python3 ledtoggleRev2.py
 
 Below is a screen grab of the web app running on a Pixel 9:
-![](https://github.com/eugenedakin/RaspberryPi_Light_On_Off_with_Python_Web_App/blob/main/ScreenshotPixel9.png)
+![](https://github.com/eugenedakin/RaspberryPi_Light_On_Off_with_Python_Web_App/blob/main/ScreenshotPixel9Rev1.png)
